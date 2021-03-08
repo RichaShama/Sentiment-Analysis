@@ -33,7 +33,7 @@ I have used Naive Bayes classification and bag-of-words features.
 </p>
 <p align="center">
   <img width="45%" src="https://github.com/RichaShama/Sentiment-Analysis/blob/main/word_counts_test_set.png" />
-  <em>Number of tweets in test dataset..</em>
+  <em>Number of tweets in test dataset.</em>
 </p>
 
 
