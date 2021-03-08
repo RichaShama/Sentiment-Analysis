@@ -7,7 +7,7 @@ I have used Naive Bayes classification and bag-of-words features.
 
 # Code and Resources Used 
 **Python Version:** 3.7  
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn
+**Packages:** pandas, numpy, sklearn, matplotlib, seaborn  
 **Kaggle:** dataset
 
 # Data Cleaning
@@ -40,7 +40,6 @@ I have used Naive Bayes classification and bag-of-words features.
 
 I have tried the following models.   
 
-I tried the following models:
 *	**Naive Bayes**
 
 # Model performance
