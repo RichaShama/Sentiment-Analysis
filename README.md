@@ -25,7 +25,7 @@ I have used Naive Bayes classification and bag-of-words features.
 
 <p align="center">
   <img width="45%" src="https://github.com/RichaShama/Sentiment-Analysis/blob/main/Word_cloud_All.png" alt></p>
-  <p <em>Word Cloud of COVID-19 tweets.</em>
+  <p  align="center"> <em>Word Cloud of COVID-19 tweets.</em>
 </p> 
 <p align="center">
   <img width="45%" src="https://github.com/RichaShama/Sentiment-Analysis/blob/main/word_counts_training_set.png" alt>
