@@ -21,6 +21,8 @@ I have used Naive Bayes classification and bag-of-words features.
 * performed stemming so that only root of the words remain
 * removed stop words except 'not'
 
+![alt text](https://github.com/RichaShama/Sentiment-Analysis/blob/main/Word_cloud_All.pdf "Word Cloud of COVID-19 tweets")
+
 
 # Model Building 
 
