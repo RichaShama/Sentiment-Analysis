@@ -23,7 +23,7 @@ I have used Naive Bayes classification and bag-of-words features.
 
 # Data Visualisation
 
-![alt text](https://github.com/RichaShama/Sentiment-Analysis/blob/main/Word_cloud_All.pdf?raw=true)
+![alt text](Word_cloud_All.pdf)
 
 ![alt text](https://github.com/RichaShama/Sentiment-Analysis/blob/main/word_counts_training_set.pdf "Number of COVID-19 tweets in training dataset")
 
