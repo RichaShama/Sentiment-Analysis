@@ -24,8 +24,16 @@ I have used Naive Bayes classification and bag-of-words features.
 # Data Visualisation
 
 <p align="center">
-  <img width="33%" src="https://github.com/RichaShama/Sentiment-Analysis/blob/main/Word_cloud_All.png" />
+  <img width="45%" src="https://github.com/RichaShama/Sentiment-Analysis/blob/main/Word_cloud_All.png" />
+  <em>image_caption</em>
 </p>
+<p align="center">
+  <img width="45%" src="hhttps://github.com/RichaShama/Sentiment-Analysis/blob/main/word_counts_training_set.png" />
+</p>
+<p align="center">
+  <img width="45%" src="https://github.com/RichaShama/Sentiment-Analysis/blob/main/word_counts_test_set.png" />
+</p>
+
 
 # Model Building 
 
