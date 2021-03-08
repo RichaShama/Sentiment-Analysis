@@ -25,27 +25,28 @@ I have used Naive Bayes classification and bag-of-words features.
 
 <p align="center">
   <img width="45%" src="https://github.com/RichaShama/Sentiment-Analysis/blob/main/Word_cloud_All.png" />
-  <em>image_caption</em>
+  <em>Word Cloud of COVID-19 tweets.</em>
 </p>
 <p align="center">
   <img width="45%" src="hhttps://github.com/RichaShama/Sentiment-Analysis/blob/main/word_counts_training_set.png" />
+  <em>Number of tweets in training dataset.</em>
 </p>
 <p align="center">
   <img width="45%" src="https://github.com/RichaShama/Sentiment-Analysis/blob/main/word_counts_test_set.png" />
+  <em>Number of tweets in test dataset..</em>
 </p>
 
 
 # Model Building 
 
-I have tried the following two models. I chose MAE because it is relatively easy to interpret and outliers aren’t particularly bad in for this type of model.   
+I have tried the following models.   
 
 I tried the following models:
 *	**Naive Bayes**
-*	**Logistic Regression** 
 
 # Model performance
 *	**Naive Bayes**: accuracy score = 0.61
-*	**Logistic Regression**: accuracy score = 
 
+Need to apply more models to increase accuracy.
 
 
