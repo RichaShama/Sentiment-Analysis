@@ -1,4 +1,4 @@
-### Sentiment Analysis - COVID-19 Tweets
+## Sentiment Analysis - COVID-19 Tweets
 
 # Project Overview
 In this project, I have created a classification system for COVID-19 tweets: positive, negative, neutral.
@@ -8,7 +8,7 @@ I have used Naive Bayes classification and bag-of-words features.
 # Code and Resources Used 
 **Python Version:** 3.7  
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn
-**Kaggle** dataset
+**Kaggle:** dataset
 
 # Data Cleaning
 
@@ -26,7 +26,7 @@ I have used Naive Bayes classification and bag-of-words features.
 
 I have tried the following two models. I chose MAE because it is relatively easy to interpret and outliers aren’t particularly bad in for this type of model.   
 
-I tried three different models:
+I tried the following models:
 *	**Naive Bayes**
 *	**Logistic Regression** 
 
