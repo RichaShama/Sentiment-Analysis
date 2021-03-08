@@ -7,7 +7,7 @@ I have used Naive Bayes classification and bag-of-words features.
 
 # Code and Resources Used 
 **Python Version:** 3.7  
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn
+**Packages:** pandas, numpy, sklearn, matplotlib, seaborn \n
 **Kaggle ** dataset
 
 # Data Cleaning
