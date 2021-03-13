@@ -3,7 +3,7 @@
 # Project Overview
 In this project, I have created a classification system for COVID-19 tweets: positive, negative, neutral.
 
-I have used Naive Bayes classification and bag-of-words features.
+I have used Naive Bayes and Logistic Regression classifications and bag-of-words features.
 
 # Code and Resources Used 
 **Python Version:** 3.7  
@@ -41,10 +41,11 @@ I have used Naive Bayes classification and bag-of-words features.
 I have tried the following models.   
 
 *	**Naive Bayes**
+*	**Logistic Regression**
 
 # Model performance
 *	**Naive Bayes**: accuracy score = 0.61
+*	**Logistic Regression**: accuracy score = 0.82
 
-Need to apply more models to increase accuracy.
 
 
